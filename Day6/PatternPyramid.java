@@ -1,4 +1,4 @@
-package Day6_Patterns;
+package Day6;
 
 public class PatternPyramid {
     public static void main(String[] args) {
