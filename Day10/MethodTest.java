@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class MethodTest{
 	public static void main(String [] args){
 		//Creating object of Student class
-		Student Stu = new Student();
+		Student1 Stu = new Student1();
 			System.out.println("Enter Student details (ID, Name and Marks) :");
 			Stu.TakeInput();
 			Stu.PrintDetails();
@@ -12,7 +12,7 @@ public class MethodTest{
 
 	}
 
-	class Student{
+	class Student1{
 		int StuID;
 		String StuName;
 		double StuMarks;
