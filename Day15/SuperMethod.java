@@ -15,6 +15,7 @@ class Shape1{
 class Circle1 extends Shape1{
     public void showDetails(){
         //to print the showDetails method in superclass we will use super.showDetails()
+        // which will call to super class i.e(Immediate parent class)
         super.showDetails();
         System.out.println("This is circle method");
     }
