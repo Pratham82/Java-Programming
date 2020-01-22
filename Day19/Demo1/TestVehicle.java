@@ -1,4 +1,4 @@
-package Packages.Demo1;
+package Day19.Demo1;
 
 public class TestVehicle{
     public static void main(String[] args) {

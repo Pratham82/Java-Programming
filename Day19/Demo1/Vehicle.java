@@ -1,4 +1,4 @@
-package Packages.Demo1;
+package Day19.Demo1;
 
 /*Packages rules:
 1) Public:  Public methods can be used anywhere
