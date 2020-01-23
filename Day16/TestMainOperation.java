@@ -1,13 +1,10 @@
-package Day16_New;
+package Day16;
 //Creating new package for our main class
 //As we can check all the methods in Addition Multiplication and Power are public we are able to access them
 //But once we make the method protected we will not be able to use it(It will not be visible for this class)
 //So for using protected method we can extend our main class i.e (TestMainOperation) to the class with protected method
 // Once we do that we have to create object of our main class and then access the protected class via that object
 // Finally we can access that method
-import Day16.Addition;
-import Day16.Multiplication;
-import Day16.Power;
 
 public class TestMainOperation extends Addition{
 	public static void main(String [] args){
