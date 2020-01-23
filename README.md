@@ -26,9 +26,13 @@ This folder contains all the random programs which are different than the curric
   ---
 ### Assignments folder
 **Assignment 1**  **:**   **Arithmetic operators**
+
 **Assignment 2**  **:**  **If else statements**
+
 **Assignment 3**  **:** **Switch case**
+
 **Assignment 4**  **:** **For loop**
+
 **Assignment 5**  **:** **Arrays**
 
 ----
