@@ -1,43 +1,265 @@
 # Java-Programming
 
-##Contents of this repo
+  
 
-**Day 1** 
+This repository is compilation of all my code which I wrote during my Java course
+
+  
+
+## Contents
+
+  
+
+### Day folder:
+These folders contains the code which is written on daily basis in our class. Every day folder contains different topics and it's examples some folders may contain similar topics they are exception
+
+  
+
+### Assignments:
+These folder contains all the Assignment questions and its solution
+
+  
+
+### Practice problems
+This folder contains all the random programs which are different than the curriculum
+
+  ---
+### Assignments folder
+**Assignment 1**  **:**   **Arithmetic operators**
+**Assignment 2**  **:**  **If else statements**
+**Assignment 3**  **:** **Switch case**
+**Assignment 4**  **:** **For loop**
+**Assignment 5**  **:** **Arrays**
+
+----
+### Days folder
+
+**Day 1**
+
+**Java basics**
+ 
+- DataTypes.java
+- HelloWorld.java
+- NewLines.java
 
 **Day 2**
 
+**Operators**
+
+- ArithmeticOperators.java
+- AssignmentOeprators.java
+- LogicalOperators.java
+- RelationalOperators.java
+
 **Day 3**
+
+**Programs using Operators**
+
+- ConditionalStatements.java
+- EligibilityChecker.java
+- EligibilityCheckerNested.java
+- OddEvenChecker.java
+- ScannerTest.java
+-Swapping.java
+- VowelChecker.java
 
 **Day 4**
 
+**Siwtch case and For loop**
+
+- Calculator.java
+- CoffeeShop.java
+- ForLoop.java
+- LeapYearChecker.java
+- OddEvenForLoop.java  
+
 **Day 5**
+
+**For loop programs**
+
+ - FactorFor.java
+- FactorialFor.java
+- FibonacciFor.java
+- PallindromeNumber.java
+- PrimeFor.java
+- ReverseWhile.java
+- TableFor.java
 
 **Day 6**
 
+**Patterns and While loop**
+
+ - ArmstrongNumberWhile.java
+- DoWhile.java
+- DoWhileOperation.java
+- Pattern1.java
+- Pattern1Reverse.java
+- Pattern1Static.java
+- Pattern2.java
+- Pattern3.java
+- Pattern4.java
+- Pattern4Static.java
+- Pattern5.java
+- Pattern6.java
+- Pattern7.java
+- Pattern7New.java
+- Pattern8.java
+- PatternChristmasTree.java
+- PatternHollowSquare.java
+- PatternPyramid.java
+- PatternSquare.java
+- PatternStar.java
+
 **Day 7**
+
+**More patterns**
+
+- Pattern10_Pyramid.java
+- Pattern11_InversePyramid.java
+- Pattern12_Diamond.java
+- Pattern13HollowSquare.java
+- Pattern13_HollowSquareAnotherWay.java
+- Pattern14_HollowSquareWithDiagonal.java
+- Pattern15RightAngleTriRegRev.java
+- Pattern16_HourGlass.java
+- Pattern8.java
+- Pattern9.java
+  
 
 **Day 8**
 
+**Array basics operation**
+
+- AdditionOfArray.java
+- Array.java
+- ArrayAverage.java
+- ArrayMaxValue.java
+- ArrayMinValue.java
+- ArrayReverse.java
+
 **Day 9**
+
+**2D , 3D Arrays and for each loop**
+
+- Array2D.java
+- Array2D4x2.java
+- Array2DReverse.java
+- Array2DTranspose.java
+- Array2x3.java
+- ArrayAscendingOrder.java
+- ArrayDescendingOrder.java
+- ForEach.java
+- ForEach2.java
+- IndexValueChecker.java
+- ValueChecker.java
+  
 
 **Day 10**
 
-**Day 11**
+**Classes, Objects and Methods**
+
+- ClassTest.java
+- MethodTest.java
+- MethodWithParameters.java
+  
 
 **Day 11**
+
+**Constructor and this keyword**
+
+- Constructor1.java
+- ConstructorPrint.java
+- InstanceLocal.java
+- ThisCon.java
+- ThisVar.java
 
 **Day 12**
 
+**Acces modifiers , getters and setters**
+
+ - AccessModifiers.java
+- Customer.java
+- MainClass.java
+- Rectangle.java
+- Rectangle2.java
+- ShapesMain.java
+- Square.java
+- ThisMethod.java
+
+**Day 13**
+
+**Static keyword, instance initializer block and constructor chain**
+
+- ConstructorChain.java
+- DemoMain.java
+- InstanceInitializer.java
+- StaticVar.java
 
 **Day 14**
 
+**Static method**
+
+- Final.java
+- StaticBlock1.java
+- StaticBlock2.java
+- StaticMethod.java
+- StaticMethod2.java
+  
+
 **Day 15**
+
+**Inheritance**
+
+ - HierarchicalInheritance.java
+- MultipleInheritance.java
+- SingleInheritance.java
+- Super.java
+- SuperMethod.java
 
 **Day 16**
 
+**Method Overloading & Overriding, Upcasting & Downcasting, Super keyword**
+
+- Addition.java
+- MethodOverLoading.java
+- MethodOverriding.java
+- Multiplication.java
+- Power.java
+- ThisAndSuper.java
+ - TestMainOperation.java
+
 **Day 17**
+
+**Abstract classes and Interfaces**
+
+- AbstractClass.java
+- ExtendedInterface.java
+- FunctionalInterface.java
+- InterfaceImplementation.java
+- NestedInterface.java
 
 **Day 18**
 
+**Has-a relationship**
+
+- Address.java
+- DynamicClassBinding.java
+- HasARelationship.java
+- SingleInheritanceNew.java
+  
+
 **Day 19**
 
+**Packages**
+
+- Demo1/Car.java
+- Demo1/TestVehicle.java
+- Demo1/Vehicle.java
+- Demo2/Bike.java
+- Demo2/Test.java
+
+**Practice problems**
+- EvenNumbersAtOddPosition.java
+- PrimeNumbers1to100.java
+- SpecialNumber.java
+- StrongNumber.java
