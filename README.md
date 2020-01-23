@@ -1,4 +1,5 @@
 # Java-Programming
+<<<<<<< HEAD
 ##Contents of this repo
 
 **Day 1** 
@@ -22,3 +23,6 @@
 **Day 19**
 
 
+=======
+Contents of this repo:
+>>>>>>> 92b380139c552536c33e0f3b334c4b9c3f7a7b5c
