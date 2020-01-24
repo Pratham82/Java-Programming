@@ -263,7 +263,11 @@ This folder contains all the random programs which are different than the curric
 - Demo2/Test.java
 
 **Practice problems**
+
 - EvenNumbersAtOddPosition.java
+- InsertionSort.java
 - PrimeNumbers1to100.java
+- ReversingString.java
 - SpecialNumber.java
+- StringSorting.java
 - StrongNumber.java
