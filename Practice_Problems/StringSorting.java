@@ -1,11 +1,11 @@
-package Pracrtice_Problems;
+package Practice_Problems;
 
 import java.util.Scanner;
 
 public class StringSorting{
 	public static void main(String [] args){
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter desired lentgh for the array: ");
+		System.out.println("Enter desired length for the array: ");
 		int ALength = scan.nextInt();
 		System.out.println("Enter "+ALength+" words: ");
 		String A[] = new String [ALength];
@@ -15,7 +15,7 @@ public class StringSorting{
 			A[i]= scan.next();
 		}
 
-		System.out.println("Enter soreted list ");
+		System.out.println("Enter sorted list ");
 		
 		for(int i =0; i<A.length; i++){
 			for(int j = i+1; j<A.length; j++){
