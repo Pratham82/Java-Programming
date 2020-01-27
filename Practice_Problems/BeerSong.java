@@ -1,4 +1,4 @@
-package HeadFirst;
+package Practice_Problems;
 
 public class BeerSong{
 	public static void main(String []args){

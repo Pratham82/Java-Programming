@@ -1,4 +1,4 @@
-package Day_Assignment_5;
+package Assignment_5;
 //2.	Take array and take any number from user and check whether that number is present in array or not.
 import java.util.Scanner;
 
