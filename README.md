@@ -264,8 +264,10 @@ This folder contains all the random programs which are different than the curric
 
 **Practice problems**
 
-- BeerSong.java                 
+- BeerSong.java     
+- DrumKit.java
 - EvenNumbersAtOddPosition.java 
+- ExerciseB.java
 - InsertionSort.java            
 - Loopy.java                    
 - PhrasoMatic.java              
