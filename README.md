@@ -262,15 +262,20 @@ This folder contains all the random programs which are different than the curric
 - Demo2/Bike.java
 - Demo2/Test.java
 
-**Practice problems**
+**Headfirst_Book**
 
 - BeerSong.java     
+- Dog.java
 - DrumKit.java
-- EvenNumbersAtOddPosition.java 
 - ExerciseB.java
-- InsertionSort.java            
 - Loopy.java                    
 - PhrasoMatic.java              
+
+
+**Practice problems**
+
+- EvenNumbersAtOddPosition.java 
+- InsertionSort.java            
 - PrimeNumbers1to100.java       
 - ReversingString.java          
 - SpecialNumber.java            
