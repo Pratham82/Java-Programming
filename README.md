@@ -2,7 +2,7 @@
 
   
 
-This repository is compilation of all my code which I wrote during my Java course
+This repository is compilation of all my code which I wrote during my Java course.
 
   
 
@@ -11,17 +11,20 @@ This repository is compilation of all my code which I wrote during my Java cours
   
 
 ### Day folder:
-These folders contains the code which is written on daily basis in our class. Every day folder contains different topics and it's examples some folders may contain similar topics they are exception
+These folders contains the code which is written on daily basis in our class. Every day folder contains different topics and it's examples some folders may contain similar topics they are exception.
 
   
 
 ### Assignments:
-These folder contains all the Assignment questions and its solution
+These folder contains all the Assignment questions and its solution.
 
   
 
 ### Practice problems
-This folder contains all the random programs which are different than the curriculum
+This folder contains all the random programs which are different than the curriculum.
+
+### Headfirst Bokk
+This folder contains the code examples for Headfirst Java book which is also a very good resource to learn Java.
 
   ---
 ### Assignments folder
@@ -262,15 +265,20 @@ This folder contains all the random programs which are different than the curric
 - Demo2/Bike.java
 - Demo2/Test.java
 
-**Practice problems**
+**Headfirst_Book**
 
 - BeerSong.java     
+- Dog.java
 - DrumKit.java
-- EvenNumbersAtOddPosition.java 
 - ExerciseB.java
-- InsertionSort.java            
 - Loopy.java                    
 - PhrasoMatic.java              
+
+
+**Practice problems**
+
+- EvenNumbersAtOddPosition.java 
+- InsertionSort.java            
 - PrimeNumbers1to100.java       
 - ReversingString.java          
 - SpecialNumber.java            
