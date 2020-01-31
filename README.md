@@ -265,6 +265,13 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - Demo2/Bike.java
 - Demo2/Test.java
 
+**Day 22**
+- AnonymousInnerClass.java
+- AnonymousInnerWithAbstract.java
+- LocalInnerClass.java
+- RegularInnerClass.java
+- StaticInnerClass.java
+
 **Headfirst_Book**
 
 - BeerSong.java     
