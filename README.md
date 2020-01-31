@@ -265,6 +265,16 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - Demo2/Bike.java
 - Demo2/Test.java
 
+
+**Day 20**
+
+**Static import**
+
+- StaticCustom.java   
+- StaticImport1.java  
+- StaticTest.java
+
+
 **Day 22**
 
 **Nested/Inner classes**
