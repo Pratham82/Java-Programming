@@ -10,7 +10,7 @@ public class StaticInnerClass {
     //Object creation of inner class:
     OuterClass.InnerClass ic1 = new OuterClass.InnerClass();
     ic1.MethodInner();
-    
+
     //Directly calling inner class using static way
     OuterClass.InnerClass.MethodInnerStatic();
 
