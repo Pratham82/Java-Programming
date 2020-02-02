@@ -277,7 +277,7 @@ This folder contains the code examples for Headfirst Java book which is also a v
 
 **Day 21**
 
-**OOPS comcepts practice**
+**OOPS concepts practice**
 
 - AbstractionDemo.java   
 - EncapsulationDemo.java  
