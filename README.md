@@ -275,6 +275,15 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - StaticTest.java
 
 
+**Day 21**
+
+**OOPS concepts practice**
+
+- AbstractionDemo.java   
+- EncapsulationDemo.java  
+- StaticPuzzle.java
+
+
 **Day 22**
 
 **Nested/Inner classes**
