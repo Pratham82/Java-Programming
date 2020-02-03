@@ -294,6 +294,17 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - RegularInnerClass.java
 - StaticInnerClass.java
 
+
+**Day 23**
+
+**String handling**
+
+- Immutability.java    
+- ObjectComparison.java
+- StringHandling.java  
+- StringMethods.java   
+- StringOperator.java  
+
 **Headfirst_Book**
 
 - BeerSong.java     
