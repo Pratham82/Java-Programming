@@ -38,6 +38,8 @@ This folder contains the code examples for Headfirst Java book which is also a v
 
 **Assignment 5**  **:** **Arrays**
 
+**Assignment 6**  **:** **String handling**
+
 ----
 ### Days folder
 
@@ -304,6 +306,14 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - StringHandling.java  
 - StringMethods.java   
 - StringOperator.java  
+
+**Day 24**
+
+**String Methods, StringBuilder, StringBuffer**
+
+- StringBuffer1.java   
+- StringBuilder1.java  
+- StringMethods4.java
 
 **Headfirst_Book**
 
