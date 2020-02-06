@@ -315,6 +315,17 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - StringBuilder1.java  
 - StringMethods4.java
 
+**Day 25**
+
+**JDK 8: Static method and default method in Interface, Lambda Expression**
+
+- DefaultMethod1.java         
+- LambdaExpression1.java       
+- LambdaExpressionEg.java      
+- LambdaExpressionTypes.java    
+- StaticWithInterface.java      
+- StringJoiner1.java
+
 **Headfirst_Book**
 
 - BeerSong.java     
