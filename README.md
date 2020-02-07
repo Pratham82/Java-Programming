@@ -340,7 +340,7 @@ This folder contains the code examples for Headfirst Java book which is also a v
 
 **Day 27**
 
-**Consumer interface, JDK 9: Private method , JDK 10:Jshell **
+**Consumer interface, JDK 9: Private method , JDK 10:Jshell**
 - ConsumerInterface1.java           
 - ConsumerInterfaceLogical.java
 - ConsumerInterfaceString.java
