@@ -326,6 +326,27 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - StaticWithInterface.java      
 - StringJoiner1.java
 
+**Day 26**
+
+**JDK 8: Method reference, Local date and time, Predicate interface**
+
+- LocalDate1.java                   
+- LocalTime1.java                   
+- MethodReference.java             
+- MethodReferenceConstructor.java
+- MethodReferenceStatic.java        
+- PredicateInterface1.java          
+- PredicateInterfaceLogical.java
+
+**Day 27**
+
+**Consumer interface, JDK 9: Private method , JDK 10:Jshell**
+- ConsumerInterface1.java           
+- ConsumerInterfaceLogical.java
+- ConsumerInterfaceString.java
+- PrivateMethod1.java
+- jsehll
+
 **Headfirst_Book**
 
 - BeerSong.java     
