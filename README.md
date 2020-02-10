@@ -23,7 +23,7 @@ These folder contains all the Assignment questions and its solution.
 ### Practice problems
 This folder contains all the random programs which are different than the curriculum.
 
-### Headfirst Bokk
+### Headfirst Book
 This folder contains the code examples for Headfirst Java book which is also a very good resource to learn Java.
 
   ---
