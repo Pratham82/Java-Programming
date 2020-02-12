@@ -347,6 +347,29 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - PrivateMethod1.java
 - JshellProgram.txt
 
+**Day 28**
+
+**Exception handling**
+
+- CompileTimeException12.java     
+- ExceptionHandling.java          
+- ExceptionMethods.java           
+- FinallyBlock.java               
+- MultipleCatch.java
+- NestedTryCatch.java             
+- RunTimeException1.java
+
+**Day 29**
+
+**throw and throws clause, Exception propagation, User defined Exception**
+
+- ExceptionChaining.java          
+- ExceptionPropagation.java       
+- throwClause.java                
+- throwsClause.java                              
+- TryFinally.java                             
+- UserDefinedException.java
+
 **Headfirst_Book**
 
 - BeerSong.java     
