@@ -370,6 +370,16 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - TryFinally.java                             
 - UserDefinedException.java
 
+**Day 30**
+
+**Multithreading sleep, isALive, join**
+
+- IsAliveMethod.java              
+- JoinMethod.java                 
+- SleepMethod.java                
+- ThreadCreationClass.java
+- ThreadCreationInterface.java         
+
 **Headfirst_Book**
 
 - BeerSong.java     
