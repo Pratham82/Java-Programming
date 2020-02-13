@@ -380,6 +380,16 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - ThreadCreationClass.java
 - ThreadCreationInterface.java         
 
+**Day 31**
+
+**Synchronization & Interthread Communication**
+
+- InterThreadComm.java     
+- SynchronizedBlock.java   
+- SynchronizedMethod.java  
+- SyncLambda.java            
+
+
 **Headfirst_Book**
 
 - BeerSong.java     
