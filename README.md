@@ -389,6 +389,16 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - SynchronizedMethod.java  
 - SyncLambda.java            
 
+**Day 32**
+
+**File Handling**
+
+- FileInputStream1.java    
+- FileOutputStream1.java   
+- FileReader1.java         
+- FileWriter1.java         
+- PrintWriter1.java
+- Scanner1.java  
 
 **Headfirst_Book**
 
@@ -398,6 +408,7 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - ExerciseB.java
 - Loopy.java                    
 - PhrasoMatic.java              
+
 
 
 **Practice problems**
