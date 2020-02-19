@@ -3,7 +3,7 @@ package Day35;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Map1 {
+public class HashMap1 {
     public static void main(String []args){
         /*Properties of map:
         1) Does not follow insertion order while printing map
