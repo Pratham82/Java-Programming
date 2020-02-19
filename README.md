@@ -420,6 +420,21 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - ListMethods.java        
 - Vector1.java    
 
+**Day 35**
+
+**Bulk operations, Map, Set, Stack, Queue**
+
+- BulkOperations1.java  
+- Deque1.java           
+- EmployeeDB2.java      
+- EmployeeDBTest.java   
+- HashSet1.java         
+- LinkedHashSet1.java
+- Map1.java             
+- PriorityQueue1.java   
+- Set1.java             
+- Stack1.java           
+- TreeSet1.java
 
 **Headfirst_Book**
 
