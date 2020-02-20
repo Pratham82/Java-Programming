@@ -436,6 +436,18 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - Stack1.java           
 - TreeSet1.java
 
+**Day 36**
+
+**Comparable & Comparator Interface, Map**
+
+- ComparableClass.java  
+- ComparableTest.java   
+- ComparatorClass.java  
+- ComparatorTest.java   
+- HashMap1.java         
+- LinkedHashMap1.java   
+- TreeMap1.java
+
 **Headfirst_Book**
 
 - BeerSong.java     
