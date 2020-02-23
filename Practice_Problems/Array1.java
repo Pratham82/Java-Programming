@@ -1,5 +1,5 @@
 package Practice_Problems;
-//Write a Java program to test if an array contains a specific value.
+//5. rite a Java program to test if an array contains a specific value.
 public class Array1 {
     public void ArrayContains(int[] Arr,int num1){
         int count =0;

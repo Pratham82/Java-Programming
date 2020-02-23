@@ -1,5 +1,5 @@
 package Practice_Problems;
-
+//9. Write a Java program to insert an element (specific position) into an array.
 import java.util.Scanner;
 
 public class Array2 {
