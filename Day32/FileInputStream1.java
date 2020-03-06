@@ -6,6 +6,7 @@ import java.io.IOException;
 
 public class FileInputStream1 {
     public static void main(String []args) throws IOException {
+        /*
         try{
             FileInputStream fi = new FileInputStream("FileOutput.txt");
             byte [] b1 = new byte [100];
@@ -15,6 +16,21 @@ public class FileInputStream1 {
             }
         }catch(FileNotFoundException fe){
             fe.printStackTrace();
+        }*/
+        FileInputStream fi = new FileInputStream("FileOutput.txt");
+        int i = 0;
+        char c;
+
+
+        // read till the end of the file
+        while((i = fi.read())!=-1) {
+
+            // converts integer to character
+            c = (char)i;
+
+            // prints character
+            System.out.print(c);
         }
+
     }
 }
