@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class HashMap1 {
     public static void main(String []args){
-        /*Properties of map:
+        /*Properties of Hashmap:
         1) Does not follow insertion order while printing map
         2) Allows adding duplicate values for but only one copy of that value will be printed
         3) If we are having duplicate keys then the latest value(value which is added last)of the key will be printed

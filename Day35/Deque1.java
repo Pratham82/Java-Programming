@@ -5,7 +5,7 @@ import java.util.Deque;
 
 public class Deque1 {
     public static void main(String[] args) {
-        /*Properties of HashSet:
+        /*Properties of Dequeue:
         1) Queue follows insertion order while printing
         2) Allows adding duplicate values, and all the duplicate values will be printed
         3) Allows adding null value for to an object, but we will get nullPointerException while printing a queue.

@@ -20,7 +20,7 @@ public class ArrayListMethods2 {
 
         System.out.println("Reverse method: ");
         System.out.println("The reversed array list: ");
-        Collections.shuffle(al1);
+        Collections.reverse(al1);
         for(int i: al1){
             System.out.println(i);
         }
