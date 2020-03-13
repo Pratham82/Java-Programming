@@ -4,7 +4,7 @@ import java.util.*;
 
 public class PriorityQueue1 {
     public static void main(String[] args) {
-         /*Properties of HashSet:
+         /*Properties of PriorityQueue:
         1) Sorts the queue while printing
         2) Allows adding duplicate values, and all the duplicate values will be printed
         3) Allows adding null value for to an object, but we will get nullPointerException while printing a queue.

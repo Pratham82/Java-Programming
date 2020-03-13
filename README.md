@@ -447,3 +447,13 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - HashMap1.java         
 - LinkedHashMap1.java   
 - TreeMap1.java
+
+**Day 40**
+
+**JDBC**
+
+- PSDelete.java
+- PSInsert.java
+- PSUpdate.java
+- PreparedStatement1.java
+- PreparedStatement2.java
