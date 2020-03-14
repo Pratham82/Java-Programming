@@ -15,7 +15,7 @@ public class BulkOperations1 {
             System.out.println(s);
         }
         System.out.println("------------");
-        System.out.println("List 3: ");
+        System.out.println("List 2: ");
         for(String s: ls2){
             System.out.println(s);
         }
@@ -27,7 +27,7 @@ public class BulkOperations1 {
         System.out.println("------------");
 
         System.out.println("Contains all method: ");
-        //Checks if list which is inside parentheses contains the elements of list which is outside
+        // Returns true if the target Collection contains all the elements in the specified Collection (c).
         System.out.println(ls1.containsAll(ls2));
         System.out.println(ls2.containsAll(ls1));
         System.out.println("---------------");
