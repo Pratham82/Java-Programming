@@ -1,4 +1,4 @@
-package Day34;
+package Collections;
 
 import java.util.*;
 
@@ -13,10 +13,19 @@ public class ArrayListNew {
 
         //Collections.sort(al);
         System.out.println(al);
-
+        /*
         //Arraylist increases the capacity by 50%
         //It is not thread safe (Because methods are not synchronized)
-        //Arraylist is fast
+        //Arraylist is faster than vector
+
+        * Arraylist vs LinkedList
+        - It follows the concept of dynamic arrays.
+        - If we manipulate the elements in Arraylist it will affect the whole list
+        - Array list time-consuming.
+        - Adding and removing elements takes time.
+        - Searching is faster.
+        */
+
         ArrayList<Integer> al2 = new ArrayList<>();
         //ArrayList<Integer> al3 = new ArrayList<>();
         al2.add(54);
@@ -26,6 +35,8 @@ public class ArrayListNew {
         al2.add(32);
         al2.add(1,5);
         //Collections.sort(al2);
+
+
 
         //Printing list
 
