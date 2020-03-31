@@ -461,3 +461,4 @@ This folder contains the code examples for Headfirst Java book which is also a v
 
 **Advanced Java**
 - HTML
+- JavaScript
