@@ -14,7 +14,7 @@ This repository is compilation of all my code which I wrote during my Java cours
 These folders contains the code which is written on daily basis in our class. Every day folder contains different topics and it's examples some folders may contain similar topics they are exception.
 
 ### Advanced-Java
-This folder contains the concepts based on advanced java.
+For now we are learning basic HTML, CSS & JS. 
 
 ### Assignments:
 These folder contains all the Assignment questions and its solution.
@@ -461,3 +461,4 @@ This folder contains the code examples for Headfirst Java book which is also a v
 
 **Advanced Java**
 - HTML
+- JavaScript
