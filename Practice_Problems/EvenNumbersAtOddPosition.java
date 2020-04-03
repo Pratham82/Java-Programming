@@ -3,7 +3,7 @@ package Practice_Problems;
 import java.util.Scanner;
 
 public class EvenNumbersAtOddPosition {
-   /* public static int Reverse(int num){
+    /* public static int Reverse(int num){
         int rev = 0;
         while(num>0){
             rev = num*10 + num%10;

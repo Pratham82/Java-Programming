@@ -1,4 +1,4 @@
-package Practice_Problems;
+package Headfirst_Book;
 
 class Exercise1b {
     public static void main(String [] args) {

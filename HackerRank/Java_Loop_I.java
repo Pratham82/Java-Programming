@@ -1,4 +1,4 @@
-package Loops;
+package HackerRank;
 
 import java.io.*;
 import java.math.*;

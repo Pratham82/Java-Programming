@@ -1,9 +1,9 @@
-package Practice_Problems;
+package Headfirst_Book;
 
 
 
 public class PhrasoMatic {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         // make three sets of words to choose from. Add your own!
         
         String[] wordListOne = {"24/7","multiTier","30,000 foot","B-to-B","win-win","front- end", "web-based","pervasive", "smart", "six- sigma","critical-path", "dynamic"};
@@ -22,5 +22,5 @@ public class PhrasoMatic {
                 wordListTwo[rand2] + " " + wordListThree[rand3];
 // print out the phrase
         System.out.println("What we need is a " + phrase);
-    }
+        }
 }
