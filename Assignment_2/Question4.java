@@ -14,7 +14,7 @@ public class Question4 {
 		else {
 			System.out.println("Entered alphabet is a consonant");
 		}
-		
+		scan.close();
 	}
 
 }

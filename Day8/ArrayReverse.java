@@ -15,5 +15,6 @@ public class ArrayReverse{
 		for(int i=LenA1-1; i>=0; i--){
 			System.out.println(A1[i]);
 		}
+		scan.close();
 	}
 }

@@ -12,7 +12,8 @@ public class Question2 {
 	    System.out.print("Enter duration: ");
 	    int n = scan.nextInt();
 	    
-	    System.out.println("Simple interest = "+ (p*r*n)/100);
+		System.out.println("Simple interest = "+ (p*r*n)/100);
+		scan.close();
 		
 	}
 }

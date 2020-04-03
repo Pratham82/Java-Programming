@@ -15,12 +15,11 @@ public class Collections2 {
         al1.add(465);
         al1.add(289);
         al1.add(787);
-
+        
         int count =0;
         for(int i: al1){
             if(al1.contains(num)){
                 count++;
-
             }
         }
         if(count>0){
@@ -32,6 +31,6 @@ public class Collections2 {
         for(int i:al1){
             System.out.println(i);
         }
-
+        scan.close();
     }
 }

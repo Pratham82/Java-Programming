@@ -17,7 +17,7 @@ public class Array2 {
 
         System.out.print("Enter the position you want to change: ");
         int ArrPos = scan.nextInt();
-
+        
         if(ArrPos<=TestArr.length){
             System.out.print("Enter new number for this position: ");
             int NewNo = scan.nextInt();
@@ -33,5 +33,6 @@ public class Array2 {
         }else{
             System.out.println("Please enter correct position");
         }
+        scan.close();
     }
 }

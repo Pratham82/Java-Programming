@@ -27,6 +27,7 @@ public class StringSorting{
 			}
 			System.out.println(A[i]);
 		}
+		scan.close();
 	}
 }
 

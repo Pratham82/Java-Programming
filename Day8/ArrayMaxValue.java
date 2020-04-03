@@ -20,6 +20,7 @@ class ArrayMaxValue{
 			}
 		}
 		System.out.println("Maximum number entered: "+ max);
+		scan.close();
 	}
 
 }

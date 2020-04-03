@@ -17,7 +17,7 @@ public class Question5 {
 		else {
 			System.out.println("Entered String is not same");
 		}
-
+		scan.close();
 
 	}
 

@@ -3,7 +3,6 @@ package Day40;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.util.Scanner;
 
 public class PSInsert {
@@ -49,6 +48,6 @@ public class PSInsert {
         }catch(Exception e){
             e.printStackTrace();
         }
-
+        scan.close();
     }
 }

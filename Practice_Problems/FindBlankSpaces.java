@@ -14,5 +14,6 @@ public class FindBlankSpaces {
             }
         }
         System.out.println("Number of blank spaces: "+count);
+        scan.close();
     }
 }

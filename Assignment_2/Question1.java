@@ -14,6 +14,6 @@ public class Question1 {
 	else {
 		System.out.println("The entered number is not divisible by 5");
 	}
-	
+	scan.close();
 	}
 }

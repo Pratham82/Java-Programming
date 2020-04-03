@@ -32,5 +32,6 @@ public class EvenNumbersAtOddPosition {
     }
 
         System.out.println("Even numbers at odd position: "+EvenCounter);
+        scan.close();
     }
 }

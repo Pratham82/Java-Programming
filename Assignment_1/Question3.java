@@ -11,6 +11,6 @@ public class Question3 {
         int b = scan.nextInt();
         System.out.println("Area of rectangle: "+l*b);
         System.out.println("Perimeter of rectangle: "+(l+b)*2);
-
+        scan.close();
     }
 }

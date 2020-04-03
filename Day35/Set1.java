@@ -11,20 +11,20 @@ public class Set1 {
         **Allows adding null value for to an object, but we will get nullPointerException while printing a set.
         * */
         Set s1 = new HashSet<>();
-       /* s1.add(675);
+        /* s1.add(675);
         s1.add(256);
         s1.add(154);
         s1.add(364);
         s1.add(754);
         s1.add(754);*/
 
-       s1.add(545);
-       s1.add(26.51);
-       s1.add("String 5645");
-       s1.add('d');
-       s1.add('d');
-       s1.add(null);
-       s1.add(null);
+        s1.add(545);
+        s1.add(26.51);
+        s1.add("String 5645");
+        s1.add('d');
+        s1.add('d');
+        s1.add(null);
+        s1.add(null);
 
         for(Object o: s1){
             System.out.println(o);

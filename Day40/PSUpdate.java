@@ -45,7 +45,6 @@ public class PSUpdate {
         }catch(Exception e){
             e.printStackTrace();
         }
-
-
+        scan.close();
     }
 }

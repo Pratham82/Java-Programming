@@ -10,7 +10,7 @@ public class Question4 {
 
         System.out.println("Area of square : "+s*s);
         System.out.println("Perimeter of square: "+(s*4));
-
+        scan.close();
 
     }
 }

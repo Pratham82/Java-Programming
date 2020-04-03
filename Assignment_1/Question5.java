@@ -11,7 +11,7 @@ public class Question5 {
 
         System.out.println("Area of circle: "+(3.14)*(r*r));
         System.out.println("Perimeter of circle: "+(2)*(3.14)*(r));
-
+        scan.close();
     }
 
 }

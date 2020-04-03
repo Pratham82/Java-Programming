@@ -32,5 +32,6 @@ class Array {
         for (int i = 0; i < LenA3; i++) {
             System.out.println(a3[i]);
         }
+        scan.close();
     }
 }

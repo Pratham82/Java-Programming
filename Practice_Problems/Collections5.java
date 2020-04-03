@@ -24,5 +24,6 @@ public class Collections5 {
 
         System.out.println("Hashmap after removal:");
         System.out.println(hm2);
+        scan.close();
     }
 }

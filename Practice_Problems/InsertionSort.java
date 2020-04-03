@@ -27,5 +27,6 @@ public class InsertionSort{
 
 			System.out.println(Arr[i]);
 		}
+		scan.close();
 	}
 }

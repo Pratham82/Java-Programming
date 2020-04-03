@@ -19,5 +19,5 @@ public class NullPointer1 {
     void method(String val){
         System.out.println(val);
     }
-
+    
 }

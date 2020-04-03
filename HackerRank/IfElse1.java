@@ -29,13 +29,7 @@ n>20 and n is even, so it isn't weird. Thus, we print Not Weird.
  */
 
 package HackerRank;
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class IfElse1{
 

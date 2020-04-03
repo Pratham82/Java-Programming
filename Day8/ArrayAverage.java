@@ -18,5 +18,7 @@ public static void main(String []args){
 		
         avg = total / A.length;
 	System.out.println("Average of the entered numbers is: "+ avg);
+	scan.close();
 	}
+	
 }

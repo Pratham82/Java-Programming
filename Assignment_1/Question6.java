@@ -16,7 +16,7 @@ public class Question6 {
 		System.out.println("Swapped number :");
 		System.out.println("Number 1 = "+num1);
 		System.out.println("Number 2 = "+num2);
-		
+		scan.close();
 	}
 
 }

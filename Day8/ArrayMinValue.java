@@ -20,7 +20,8 @@ public class ArrayMinValue{
 			
 			}
 		}
-		System.out.println("The minimum value enterred: "+min);
+		System.out.println("The minimum value entered: "+min);
+		scan.close();
 	}
 }
 

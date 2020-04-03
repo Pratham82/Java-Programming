@@ -3,7 +3,6 @@ package Practice_Problems;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
 
 //Write a Java program to test if a map contains a mapping for the specified key.
 //Remove that element
@@ -20,12 +19,13 @@ public class Collections4 {
         System.out.println(m1);
         System.out.print("Enter value to check in a map: ");
         String val = scan.next();
-        int n=0;
-        Set<Map.Entry<Integer,String>> s1 = m1.entrySet();
+        
+        //Set<Map.Entry<Integer,String>> s1 = m1.entrySet();
         if(m1.containsValue(val)){
             System.out.println("Map contains the specified value");
         }else{
             System.out.println("Map does not contain the specified value");
         }
+        scan.close();
     }
 }

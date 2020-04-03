@@ -14,7 +14,7 @@ public class AutoBoxing1 {
 
     System.out.println("Primitive var value: "+PrimitiveInt+" "+"Wrapper class's var value: "+wrapperInt1);
 
-    //Autoboxing
+    //Auto-boxing
     //Compiler automatically converts(boxes/Wraps) the primitive type variable to Wrapper class
     Integer wrapperInt2 =  PrimitiveInt;
 

@@ -11,5 +11,6 @@ public class Question8 {
 		int quantity = scan.nextInt();
 		
 		System.out.println("Your final total is: " +productPrice*quantity);
+		scan.close();
 	}
 }

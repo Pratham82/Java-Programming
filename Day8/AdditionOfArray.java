@@ -15,6 +15,7 @@ class AdditionOfArray {
             sum = sum + a1[i];
         }
         System.out.println("Addition of all numbers: " + sum);
+        scan.close();
     }
 }
 

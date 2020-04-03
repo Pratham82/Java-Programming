@@ -42,5 +42,6 @@ public class PSDelete {
         }catch(Exception e){
             e.printStackTrace();
         }
+        scan.close();
     }
 }

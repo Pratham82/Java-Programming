@@ -31,6 +31,6 @@ public class Collections3 {
             System.out.println(i);
         }
 
-
+        scan.close();
     }
 }
