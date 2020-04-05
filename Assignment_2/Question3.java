@@ -14,7 +14,7 @@ public class Question3 {
 		else {
 			System.out.println("The entered number is not a Leap year");
 		}
-		
+		scan.close();
 	}
 
 }

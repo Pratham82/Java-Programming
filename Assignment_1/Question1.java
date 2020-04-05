@@ -18,7 +18,7 @@ public class Question1 {
 	    System.out.println("Multiplication of two numbers: "+(num1*num2));
 	    System.out.println("Division of two numbers: "+(num1/num2));
 	    System.out.println("Modulus of two numbers: "+(num1%num2));
-
+		scan.close();
 	    
 	    
 	}

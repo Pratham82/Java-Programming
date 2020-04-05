@@ -14,6 +14,6 @@ public class Question2 {
 		else {
 			System.out.println("The entered number is Odd");
 		}
-		
+		scan.close();
 	}
 }
