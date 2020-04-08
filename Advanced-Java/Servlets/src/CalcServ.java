@@ -23,9 +23,10 @@ public class CalcServ extends HttpServlet {
 		num2= Integer.parseInt(request.getParameter("num-2"));
 		
 		printwriter.print("Addition of two numbers: "+(num1+num2));
+		
+		//response.sendRedirect("Redirect");
 	}
 
-	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 	}

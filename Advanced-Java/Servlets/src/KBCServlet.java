@@ -25,8 +25,8 @@ public class KBCServlet extends HttpServlet {
 		int corr=0;
 		//String answers[]= {question1,question2,question3,question4,question5};
 		
-		//Answers = caacb
-		int correctAns= 0;
+		//Answers = c,a,a,c,b
+		
 		if(question1.equals("c")) {
 			corr++;
 		}
