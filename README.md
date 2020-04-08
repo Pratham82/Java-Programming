@@ -458,7 +458,26 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - PSUpdate.java
 - PreparedStatement1.java
 - PreparedStatement2.java
-
+---
 **Advanced Java**
 - HTML
 - JavaScript
+- jQuery
+- Servlets
+
+**Servlets**
+
+**Day 1**
+- CalcServ.java
+- MyServlet1.java
+- KBCServlet.java
+- Calc.html
+- KBC_Frontend.html
+- Form.html
+
+**Day 2**
+- Check.java
+- Redirect.java
+- Welcome.java
+- LoginPage.html
+
