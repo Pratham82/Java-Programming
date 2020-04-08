@@ -459,7 +459,7 @@ This folder contains the code examples for Headfirst Java book which is also a v
 - PreparedStatement1.java
 - PreparedStatement2.java
 ---
-**Advanced Java**
+### Advanced Java
 - HTML
 - JavaScript
 - jQuery
