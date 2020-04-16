@@ -1,4 +1,4 @@
-package HackerRank;
+package HackerRank.Day_2_Operators;
 
 import java.util.*;
 

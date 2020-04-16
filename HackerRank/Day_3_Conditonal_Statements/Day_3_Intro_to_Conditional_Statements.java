@@ -1,4 +1,4 @@
-package HackerRank;
+package HackerRank.Day_3_Conditonal_Statements;
 
 import java.util.Scanner;
 
