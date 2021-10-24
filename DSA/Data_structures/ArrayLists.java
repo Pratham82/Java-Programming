@@ -5,15 +5,6 @@ import java.util.ArrayList;
 public class ArrayLists {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList1 = new ArrayList<>();
-        /*
-        ArrayList methods:
-        add
-        remove (based on index)
-        remove (baaed on object)
-        get
-        set
-
-         */
         //Adding elements to arrayList
         arrayList1.add(1);
         arrayList1.add(2);
